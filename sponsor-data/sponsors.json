@@ -1,17 +1,18 @@
 [
-    {
-      "name": "JerryDrawsAsia",
-      "description": "Follow JerryDrawsAsia for art, language, and travel content across Asia.",
-      "website": "https://barbozajerry.com",
-      "tiktok": "https://www.tiktok.com/@jerrydrawsasia?lang=en",
-      "logo_url": "https://yourusername.github.io/sponsor-data/logos/jerrydrawsasia.png"
-    },
-    {
-      "name": "Aders & Herrera Law",
-      "description": "Fighting for injury victims and helping you get the settlement you deserve.",
-      "website": "https://aderslaw.com",
-      "tiktok": "https://www.tiktok.com/@aders.herrera.law?lang=en",
-      "logo_url": "https://yourusername.github.io/sponsor-data/logos/AH.jpg"
-    }
-  ]
+  {
+    "name": "JerryDrawsAsia",
+    "description": "Follow JerryDrawsAsia for art, language, and travel content across Asia.",
+    "website": "https://barbozajerry.com",
+    "tiktok": "https://www.tiktok.com/@jerrydrawsasia?lang=en",
+    "logo_url": "https://barbozajerry.github.io/sponsors-data/logos/jerrydrawsasia.png"
+  },
+  {
+    "name": "Aders & Herrera Law",
+    "description": "Fighting for injury victims and helping you get the settlement you deserve.",
+    "website": "https://aderslaw.com",
+    "tiktok": "https://www.tiktok.com/@aders.herrera.law?lang=en",
+    "logo_url": "https://barbozajerry.github.io/sponsors-data/logos/AH.jpg"
+  }
+]
+
   
