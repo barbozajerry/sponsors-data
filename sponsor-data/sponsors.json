@@ -15,11 +15,10 @@
       "logo_url": "https://barbozajerry.github.io/sponsors-data/sponsor-data/logos/AH.jpg"
     }
   ],
-  "winner": {
-    "name": "JerryDrawsAsia",
-    "description": "Follow JerryDrawsAsia for art, language, and travel content across Asia.",
-    "website": "https://barbozajerry.com",
-    "tiktok": "https://www.tiktok.com/@jerrydrawsasia?lang=en",
-    "logo_url": "https://github.com/barbozajerry/sponsors-data/blob/main/sponsor-data/logos/jb.jpg"
-  }
+"winner": {
+  "name": "JerryDrawsAsia",
+  "description": "Follow JerryDrawsAsia for art, language, and travel content across Asia.",
+  "website": "https://barbozajerry.com",
+  "tiktok": "https://www.tiktok.com/@jerrydrawsasia?lang=en",
+  "logo_url": "https://barbozajerry.github.io/sponsors-data/sponsor-data/logos/jb.jpg"
 }
